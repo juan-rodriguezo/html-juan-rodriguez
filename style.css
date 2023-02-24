@@ -1,20 +1,7 @@
-p {
-  color: cyan;
-  font-size: 35px;
-  text-align: left;
-  background-color: wheat;
-}
-
-#julian {
-  color: greenyellow;
-  font-size: 40px;
+#alfonso {
+  color: red;
+  font-size: 100px;
   text-align: center;
-  background-color: green;
-}
-
-#sebas {
-  color: purple;
-  font-size: 35px;
-  text-align: center;
-  background-color: black;
+  background-color: cyan;
+  text-shadow: 30px 0px black;
 }

@@ -1,0 +1,20 @@
+p {
+  color: cyan;
+  font-size: 35px;
+  text-align: left;
+  background-color: wheat;
+}
+
+#julian {
+  color: greenyellow;
+  font-size: 40px;
+  text-align: center;
+  background-color: green;
+}
+
+#sebas {
+  color: purple;
+  font-size: 35px;
+  text-align: center;
+  background-color: black;
+}
