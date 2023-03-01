@@ -2,6 +2,27 @@
   color: red;
   font-size: 100px;
   text-align: center;
-  background-color: cyan;
-  text-shadow: 30px 0px black;
+  text-shadow: 3px 10px black;
+}
+
+#p1 {
+  background-color: yellow;
+}
+
+#p2 {
+  color: green;
+}
+
+#p3 {
+  color: white;
+  background-color: black;
+}
+
+#p4 {
+  color: white;
+  background-color: black;
+}
+
+#p5 {
+  color: blue;
 }
