@@ -8,8 +8,8 @@ body {
 }
 
 header h1 {
-  background-color: #364552;
-  color: white;
+  background-color: blue;
+  color: white(80, 56, 56);
   padding: 3rem 2rem;
   font-size: 3rem;
   text-align: center;
@@ -96,4 +96,5 @@ footer a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  background-color: cyan;
 }
